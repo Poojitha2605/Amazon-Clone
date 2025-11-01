@@ -9,9 +9,7 @@ This is an **Amazon Clone** project built using **HTML** and **CSS**, replicatin
 
 ##  Tech Used
 - HTML  
-- CSS  
-
-🔗 **[Live Demo](https://poojitha2605.github.io/Amazon-Clone/)**  
-
+- CSS
+  
 ##  Author
 **Poojitha Chitipotu**
